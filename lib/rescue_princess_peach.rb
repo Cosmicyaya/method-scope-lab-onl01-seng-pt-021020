@@ -2,5 +2,5 @@ def catch_phrase
   puts phrase
 end
 
-rescue_princess_peach
-puts phrase
+ rescue_princess_peach
+ puts phrase

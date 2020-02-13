@@ -8,4 +8,4 @@ end
 ##
 ##
 rescue_princess_peach
- puts status
+ status = "rescued"

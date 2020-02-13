@@ -1,4 +1,4 @@
-def rescue_princess_peach
+def phrase
   puts "Hooray! Mario has rescued Princess Peach."
   status = "rescued"
 end  

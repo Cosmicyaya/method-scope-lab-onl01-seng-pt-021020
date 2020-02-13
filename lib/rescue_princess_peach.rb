@@ -1,4 +1,4 @@
-def phrase
+def catch_phrase
   puts "Hooray! Mario has rescued Princess Peach."
   status = "rescued"
 end  

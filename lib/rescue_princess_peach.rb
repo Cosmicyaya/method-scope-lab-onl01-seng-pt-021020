@@ -1,5 +1,5 @@
 def catch_phrase
   rescue_princess_peach
-  puts status
+  status
   puts phrase
 end
